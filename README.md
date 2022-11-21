@@ -1,4 +1,4 @@
-### Hi there 👋
+### 📄📄📄 [My PR Slides (Japanese, PDF)](https://gpioblink.github.io/rirekisho.pdf) 📄📄📄
 
 <!--
 **gpioblink/gpioblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
